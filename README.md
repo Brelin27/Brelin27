@@ -1,16 +1,26 @@
-## Hi there 👋
+## Olá, Meu nome é Breno Oliveira Rodrigues
 
-<!--
-**Brelin27/Brelin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brelin27&show_icons=true&theme=light)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Estudante de Ciência da Computação**  
+Atualmente no 6º período na Universidade Católica de Pernambuco.
+
+💻 **Conhecimentos Sólidos em:**
+- **Linguagens de Programação:** Java, C
+- **Desenvolvimento Web:** HTML, CSS, JavaScript
+
+🔍 **Áreas de Interesse:**
+- Desenvolvimento Back-End
+- Banco de Dados
+
+🎯 **Objetivos:**
+- Buscando um estágio para aplicar e expandir meus conhecimentos.
+- Motivado a colaborar em equipes dinâmicas e contribuir para o sucesso dos projetos.
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brelin27&layout=pie)](https://github.com/Brelin27/github-readme-stats)
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
