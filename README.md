@@ -1,9 +1,5 @@
 ## Olá, Meu nome é Breno Oliveira Rodrigues
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brelin27&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
 ---
 
 🎓 **Estudante de Ciência da Computação**  
